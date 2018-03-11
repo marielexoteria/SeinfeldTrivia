@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Space between the logo and the first question -->
+    <dimen name="margin_top_first_question">30dp</dimen>
+
+    <!-- Space used for vertical space between elements -->
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="margin_bottom">20dp</dimen>
+
+    <!-- General padding -->
+    <dimen name="app_padding">16dp</dimen>
+
+    <!-- Text size for the questions -->
+    <dimen name="questions_size">16sp</dimen>
+
+    <!-- Text size for the radio buttons and explanations to the correct answers -->
+    <dimen name="options_size">14sp</dimen>
+
+    <!-- Space between the questions and the images and between the images and the possible answers -->
+    <dimen name="margin_questions_images_answers">5dp</dimen>
+
+    <!-- Margin between the questions - using rounded corners-->
+    <dimen name="margin_between_questions">10dp</dimen>
+
+    <!-- Padding in the score & reset buttons -->
+    <dimen name="padding_score_button">10dp</dimen>
+
+    <!-- Margin between the reset and score buttons -->
+    <dimen name="margin_right_reset_score">50dp</dimen>
+
+    <!-- Style of the border - rounded corners -->
+    <dimen name="border_size">1dp</dimen>
+    <dimen name="border_radius">10dp</dimen>
+    <dimen name="padding_top_bottom">10dp</dimen>
+    <dimen name="padding_left_right">20dp</dimen>
+
+</resources>

@@ -1,0 +1,66 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">SeinfeldTrivia</string>
+
+    <!-- The label on top of the EditText -->
+    <string name="label_your_name">What\'s your name?</string>
+
+    <!-- The part of the title that is text -->
+    <string name="title_name">Trivia</string>
+
+    <!-- The labels of the questions -->
+    <string name="label_question_one">(1) Who are the 4 main characters?</string>
+    <string name="label_question_two">(2) Jerry and George pitched a show for NBC. What was it about?</string>
+    <string name="label_question_three">(3) What is Kramer\'s given name?</string>
+    <string name="label_question_four">(4) What is correct about Festivus? Check all that apply.</string>
+    <string name="label_question_five">(5) Where did Elaine work at for most of the series?</string>
+
+    <!-- The text of the 3 options of question 1 -->
+    <string name="q1_answer1">Jerry, Elaine, George, Kessler</string>
+    <string name="q1_answer2">Jerry, Elaine, George, Kramer</string>
+    <string name="q1_answer3">Newman, Jerry, Kramer, George</string>
+
+    <!-- The text of the 3 options of question 2 -->
+    <string name="q2_answer1">Their love lives</string>
+    <string name="q2_answer2">A show in space</string>
+    <string name="q2_answer3">"Nothing</string>
+
+    <!-- The text of the 3 options of question 4 -->
+    <string name="q4_answer1">There is an aluminum pole</string>
+    <string name="q4_answer2">You eat ham</string>
+    <string name="q4_answer3">You air your grievances</string>
+
+    <!-- The text of the 3 options of question 5 -->
+    <string name="q5_answer1">J. Peterman Catalog</string>
+    <string name="q5_answer2">Personal assistant for Mr. Pittman</string>
+    <string name="q5_answer3">Pendant Publishing</string>
+
+    <!-- The explanations that will be shown upon choosing the right answer -->
+    <string name="explanation_q1">That\'s right! They\'re the main cast.</string>
+    <string name="explanation_q2">George did indeed say that the show was about nothing to the NBC executives.</string>
+    <string name="explanation_q3">Cosmo is Kramer\'s name but people kept calling him Kramer.</string>
+    <string name="explanation_q4">George got a job at the NY Yankees, which made his dream come true.</string>
+    <string name="explanation_q5">Elaine worked as a book editor at Pendant Publishing.</string>
+
+    <!-- The labels of the buttons -->
+    <string name="label_score_button">Show me my score</string>
+    <string name="label_reset_button">Try again</string>
+
+    <!-- Messages for scores -->
+    <!-- Common for all 3 messages -->
+    <!--<string name="your_score_is">Your score is: <xliff:g id="score" example="1">%1$d</xliff:g>. </string>-->
+    <string name="your_score_is">Your score is:&#160;<xliff:g id="score" example="1">%1$d</xliff:g>. &#160;</string>
+    <string name="check_quiz">Check the quiz for the answers and a bit of Notes About Nothing.</string>
+
+    <!-- For scores 0 and 1 -->
+    <string name="message_scores_0_1">No soup for you! Watch some episodes and try again.</string>
+
+    <!-- For scores 2 and 3 -->
+    <string name="message_scores_2_3">Hmmm not quite there yet. Do a Feat of Strength and try again.</string>
+
+    <!-- For scores 4 and 5 -->
+    <string name="message_scores_4_5">You\'re a master of your domain and a true Seinfeld fan.</string>
+
+    <!-- Error message -->
+    <string name="error_message_name_empty">Something\'s missing... such as your name. Please check and try again.</string>
+
+</resources>

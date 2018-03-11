@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#0277BD</color>
+
+    <!-- Style of the rounded corners -->
+    <color name="bg_color">#fdf4c5</color>
+    <color name="border_color">#bbb</color>
+    <!--<color name="window_bg_color">#fefcf1 - #FDFDFC - #FCFAEF</color>-->
+
+    <!-- Color of the score button -->
+    <color name="color_button_text">#FFF</color>
+
+    <!-- Color of the text according to the different answers (correct and incorrect) -->
+    <color name="color_correct_answer">#4CAF50</color>
+    <color name="color_incorrect_answer">#E30922</color>
+
+    <!-- Color of the "normal" text -->
+    <color name="color_text">#000</color>
+
+    <!-- Color of the text that builds the explanation of the correct answers -->
+    <color name="color_explanation_text">#616161</color>
+
+</resources>
